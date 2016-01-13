@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2515734345">
+    <data-source source="LOCAL" name="GrailsDomain dev" uuid="e73ea9d2-4ebf-40ab-924b-c063713d1b7d">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/service?autoReconnect=true&amp;useUnicode=yes&amp;characterEncoding=UTF-8</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc3dfcddfcedfcfdfccdfcbdfdfdfc6dfde</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
